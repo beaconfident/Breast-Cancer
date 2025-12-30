@@ -1,7 +1,7 @@
+#app.py
+
 import streamlit as st
-st.write("App started")
 import tensorflow as tf
-st.write(tf.__version__)
 import pandas as pd
 import pickle
 import warnings
