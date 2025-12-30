@@ -4,9 +4,10 @@ tensorflow==2.15.0
 
 numpy<2.0
 pandas
-
 scikit-learn
 joblib
 
 protobuf<5
 typing-extensions>=4.12.0
+
+
